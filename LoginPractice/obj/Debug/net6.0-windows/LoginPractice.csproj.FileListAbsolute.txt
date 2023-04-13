@@ -1,0 +1,17 @@
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\LoginPractice\bin\Debug\net6.0-windows\LoginPractice.exe
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\LoginPractice\bin\Debug\net6.0-windows\LoginPractice.deps.json
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\LoginPractice\bin\Debug\net6.0-windows\LoginPractice.runtimeconfig.json
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\LoginPractice\bin\Debug\net6.0-windows\LoginPractice.dll
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\LoginPractice\bin\Debug\net6.0-windows\LoginPractice.pdb
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\LoginPractice\obj\Debug\net6.0-windows\LoginPractice.csproj.AssemblyReference.cache
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\LoginPractice\obj\Debug\net6.0-windows\LoginPractice.Form1.resources
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\LoginPractice\obj\Debug\net6.0-windows\LoginPractice.csproj.GenerateResource.cache
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\LoginPractice\obj\Debug\net6.0-windows\LoginPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\LoginPractice\obj\Debug\net6.0-windows\LoginPractice.AssemblyInfoInputs.cache
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\LoginPractice\obj\Debug\net6.0-windows\LoginPractice.AssemblyInfo.cs
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\LoginPractice\obj\Debug\net6.0-windows\LoginPractice.csproj.CoreCompileInputs.cache
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\LoginPractice\obj\Debug\net6.0-windows\LoginPractice.dll
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\LoginPractice\obj\Debug\net6.0-windows\refint\LoginPractice.dll
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\LoginPractice\obj\Debug\net6.0-windows\LoginPractice.pdb
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\LoginPractice\obj\Debug\net6.0-windows\LoginPractice.genruntimeconfig.cache
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\LoginPractice\obj\Debug\net6.0-windows\ref\LoginPractice.dll
