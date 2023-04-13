@@ -1,0 +1,17 @@
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\WinFormsTest\bin\Debug\net6.0-windows\WinFormsTest.exe
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\WinFormsTest\bin\Debug\net6.0-windows\WinFormsTest.deps.json
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\WinFormsTest\bin\Debug\net6.0-windows\WinFormsTest.runtimeconfig.json
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\WinFormsTest\bin\Debug\net6.0-windows\WinFormsTest.dll
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\WinFormsTest\bin\Debug\net6.0-windows\WinFormsTest.pdb
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\WinFormsTest\obj\Debug\net6.0-windows\WinFormsTest.csproj.AssemblyReference.cache
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\WinFormsTest\obj\Debug\net6.0-windows\WinFormsTest.Form1.resources
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\WinFormsTest\obj\Debug\net6.0-windows\WinFormsTest.csproj.GenerateResource.cache
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\WinFormsTest\obj\Debug\net6.0-windows\WinFormsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\WinFormsTest\obj\Debug\net6.0-windows\WinFormsTest.AssemblyInfoInputs.cache
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\WinFormsTest\obj\Debug\net6.0-windows\WinFormsTest.AssemblyInfo.cs
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\WinFormsTest\obj\Debug\net6.0-windows\WinFormsTest.csproj.CoreCompileInputs.cache
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\WinFormsTest\obj\Debug\net6.0-windows\WinFormsTest.dll
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\WinFormsTest\obj\Debug\net6.0-windows\refint\WinFormsTest.dll
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\WinFormsTest\obj\Debug\net6.0-windows\WinFormsTest.pdb
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\WinFormsTest\obj\Debug\net6.0-windows\WinFormsTest.genruntimeconfig.cache
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\WinFormsTest\obj\Debug\net6.0-windows\ref\WinFormsTest.dll
