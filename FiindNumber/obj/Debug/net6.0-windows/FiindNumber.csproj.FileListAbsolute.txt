@@ -1,0 +1,17 @@
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\FiindNumber\obj\Debug\net6.0-windows\FiindNumber.csproj.AssemblyReference.cache
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\FiindNumber\obj\Debug\net6.0-windows\FiindNumber.Form1.resources
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\FiindNumber\obj\Debug\net6.0-windows\FiindNumber.csproj.GenerateResource.cache
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\FiindNumber\obj\Debug\net6.0-windows\FiindNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\FiindNumber\obj\Debug\net6.0-windows\FiindNumber.AssemblyInfoInputs.cache
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\FiindNumber\obj\Debug\net6.0-windows\FiindNumber.AssemblyInfo.cs
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\FiindNumber\obj\Debug\net6.0-windows\FiindNumber.csproj.CoreCompileInputs.cache
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\FiindNumber\bin\Debug\net6.0-windows\FiindNumber.exe
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\FiindNumber\bin\Debug\net6.0-windows\FiindNumber.deps.json
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\FiindNumber\bin\Debug\net6.0-windows\FiindNumber.runtimeconfig.json
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\FiindNumber\bin\Debug\net6.0-windows\FiindNumber.dll
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\FiindNumber\bin\Debug\net6.0-windows\FiindNumber.pdb
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\FiindNumber\obj\Debug\net6.0-windows\FiindNumber.dll
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\FiindNumber\obj\Debug\net6.0-windows\refint\FiindNumber.dll
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\FiindNumber\obj\Debug\net6.0-windows\FiindNumber.pdb
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\FiindNumber\obj\Debug\net6.0-windows\FiindNumber.genruntimeconfig.cache
+C:\Users\dlawo\Documents\GitHub\Study_Csharp\FiindNumber\obj\Debug\net6.0-windows\ref\FiindNumber.dll
